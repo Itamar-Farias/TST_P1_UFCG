@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "tri\u00e2ngulo\n3.0\n8.0\n",
+      "output": "\u00c1rea do tri\u00e2ngulo: 12.00 (cm2)\n"
+    },
+    {
+      "category": "public",
+      "input": "c\u00edrculo\n2\n",
+      "output": "\u00c1rea do c\u00edrculo: 12.57 (cm2)\n"
+    }
+  ],
+  "c598c2ede37016f49511450eaa815b93": {
+    "timestamp": "2016-03-26T23:29:03.396870",
+    "feedback": "",
+    "summary": "....."
+  },
+  "activity_revision": "1.1.0",
+  "key": "141E9586000000",
+  "last_commit": "c598c2ede37016f49511450eaa815b93"
+}

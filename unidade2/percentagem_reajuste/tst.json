@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "500.00\n560.00\n",
+      "output": "Valor atual? Novo valor? Reajuste de 12.0%\n"
+    },
+    {
+      "category": "public",
+      "input": "500.00\n545.00\n",
+      "output": "Valor atual? Novo valor? Reajuste de 9.0%\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "041ee5c3a9a461e6ba76b0ee52c91737": {
+    "timestamp": "2016-03-20T12:25:23.662030",
+    "feedback": "",
+    "summary": "...."
+  },
+  "key": "11F6EDFA000000",
+  "last_commit": "041ee5c3a9a461e6ba76b0ee52c91737"
+}

@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "101.00\n64\n40\n20.65\n1\n6\n3.35\n",
+      "output": "Pre\u00e7o de venda \u00e9 R$ 298.61 (R$ 298.00 + R$ 0.61)\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "9fdf0dd5833b7d3c878754384a8725d4": {
+    "timestamp": "2016-03-20T13:00:47.452090",
+    "feedback": "",
+    "summary": "..."
+  },
+  "key": "158F063A000000",
+  "last_commit": "9fdf0dd5833b7d3c878754384a8725d4"
+}

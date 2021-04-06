@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "1\n",
+      "output": "R$ 1.50\n"
+    },
+    {
+      "category": "public",
+      "input": "10\n",
+      "output": "R$ 7.00\n"
+    },
+    {
+      "category": "public",
+      "input": "14\n",
+      "output": "R$ 9.80\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "4d3e4f43000925bcfc942533f5ec1c93": {
+    "timestamp": "2016-03-19T23:42:57.921980",
+    "feedback": "",
+    "summary": ".....FF"
+  },
+  "key": "14A64E6A000000",
+  "last_commit": "4d3e4f43000925bcfc942533f5ec1c93"
+}

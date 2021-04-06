@@ -1,0 +1,19 @@
+{
+  "59e72a46a10c5f867d89382364b6669d": {
+    "timestamp": "2016-02-27T21:57:11.983520",
+    "feedback": "",
+    "summary": "....."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "5\n",
+      "output": "10\n"
+    }
+  ],
+  "filename": "dobro.py",
+  "tst_files": [],
+  "activity_revision": "1.1.0",
+  "key": "1090816A000000",
+  "last_commit": "59e72a46a10c5f867d89382364b6669d"
+}

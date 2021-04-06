@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "A 2 3 4 5\nI\nfim\n",
+      "output": "2 A 4 3 5\n"
+    },
+    {
+      "category": "public",
+      "input": "K 2 7\nGD\nGD\nGE\nfim\n",
+      "output": "2 7 K\n7 K 2\n2 7 K\n"
+    }
+  ],
+  "eb9c66e87bd5f58b0ffdcf6b818a1f79": {
+    "timestamp": "2016-04-18T08:47:11.532400",
+    "feedback": "",
+    "summary": "..."
+  },
+  "activity_revision": "1.0.0",
+  "key": "11A20EA6000000",
+  "last_commit": "eb9c66e87bd5f58b0ffdcf6b818a1f79",
+  "fa716c445ff2621f685ccbc8b4b961c7": {
+    "timestamp": "2016-04-16T13:05:00.041570",
+    "feedback": "",
+    "summary": ".F."
+  }
+}

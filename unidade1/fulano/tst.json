@@ -1,0 +1,23 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "Carlos\n",
+      "name": "exemplo",
+      "output": "Oi Carlos\n"
+    },
+    {
+      "category": "public",
+      "input": "Carlos\n",
+      "output": "Oi Carlos\n"
+    }
+  ],
+  "3bea0b22ef3178bcf92e36db0dc0fb85": {
+    "timestamp": "2016-02-22T21:40:51.835750",
+    "feedback": "",
+    "summary": "........."
+  },
+  "activity_revision": "1.12.1",
+  "key": "145DC66A000000",
+  "last_commit": "3bea0b22ef3178bcf92e36db0dc0fb85"
+}

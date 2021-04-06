@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "0\n0\n0\n3\n4\n0\n",
+      "output": "O per\u00edmetro \u00e9 de 12.00\n"
+    }
+  ],
+  "7647dab6bd9d4ed5d4b558df3e677005": {
+    "timestamp": "2016-02-27T21:01:28.334490",
+    "feedback": "",
+    "summary": "..."
+  },
+  "activity_revision": "1.1.0",
+  "key": "1767BF0A000000",
+  "last_commit": "7647dab6bd9d4ed5d4b558df3e677005"
+}

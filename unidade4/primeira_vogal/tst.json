@@ -1,0 +1,17 @@
+{
+  "d34f500d4f4b3eee5c4e03cc901add2b": {
+    "timestamp": "2016-03-17T19:52:18.359110",
+    "feedback": "",
+    "summary": "......"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "problema\n",
+      "output": "o\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "10E4447A000000",
+  "last_commit": "d34f500d4f4b3eee5c4e03cc901add2b"
+}

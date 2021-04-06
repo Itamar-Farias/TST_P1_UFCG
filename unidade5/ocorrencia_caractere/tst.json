@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "um\nexemplo\nde\nentrada\npara\na\nquestao\ndo\nminiteste\nfim\na\n1\n",
+      "output": "entrada\npara\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "key": "14E4AE7A000000"
+}

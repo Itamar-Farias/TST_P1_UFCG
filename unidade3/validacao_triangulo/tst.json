@@ -1,0 +1,16 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "2\n2\n2\n",
+      "output": "triangulo valido. 6\n"
+    },
+    {
+      "category": "public",
+      "input": "20\n10\n5\n",
+      "output": "triangulo invalido.\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "1584B7FA000000"
+}

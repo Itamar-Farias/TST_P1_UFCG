@@ -1,0 +1,22 @@
+{
+  "e0ebba137b9850f7d2f6fa7277f56dc7": {
+    "timestamp": "2016-03-24T01:27:21.912610",
+    "feedback": "",
+    "summary": "....."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "2.3\n2.1\n0.9\n8.76\n1.9\nfim\n",
+      "output": "O valor m\u00e9dio por produto foi R$ 3.19. O produto mais caro custa R$ 8.76.\n"
+    },
+    {
+      "category": "public",
+      "input": "0\n2.1\n22.1\n2.9\n1.9\n0.8\nfim\n",
+      "output": "O valor m\u00e9dio por produto foi R$ 4.97. O produto mais caro custa R$ 22.10.\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "15DF4AEA000000",
+  "last_commit": "e0ebba137b9850f7d2f6fa7277f56dc7"
+}

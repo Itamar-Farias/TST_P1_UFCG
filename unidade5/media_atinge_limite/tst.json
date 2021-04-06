@@ -1,0 +1,17 @@
+{
+  "35826db24e1ace3f3e46de5018f7c313": {
+    "timestamp": "2016-03-24T15:18:50.364230",
+    "feedback": "",
+    "summary": ".F.F.F."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "2.2\n3.5\n5\n2\n1\n10\n-\n3.0\n",
+      "output": "media = 3.6\nnum = 3\n"
+    }
+  ],
+  "activity_revision": "1.0.2",
+  "key": "17C166EA000000",
+  "last_commit": "35826db24e1ace3f3e46de5018f7c313"
+}

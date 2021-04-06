@@ -1,0 +1,16 @@
+{
+  "tst_files": [],
+  "tests": [
+    {
+      "category": "public",
+      "files": [
+        "public_tests.py"
+      ],
+      "type": "script",
+      "script": "python public_tests.py"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "1192794E000000",
+  "filename": "public_tests.py"
+}

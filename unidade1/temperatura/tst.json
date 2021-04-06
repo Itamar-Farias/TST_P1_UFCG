@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "1\n",
+      "output": "Fahrenheit: 1.000 F\nCelsius: -17.222 C\nKelvin: 255.928 K\n"
+    },
+    {
+      "category": "public",
+      "input": "74.3\n",
+      "output": "Fahrenheit: 74.300 F\nCelsius: 23.500 C\nKelvin: 296.650 K\n"
+    }
+  ],
+  "activity_revision": "1.1.1",
+  "7c314748c313296bc2f9ae0e30649f10": {
+    "timestamp": "2016-02-22T16:23:08.497820",
+    "feedback": "",
+    "summary": "...."
+  },
+  "key": "148C130A000000",
+  "last_commit": "7c314748c313296bc2f9ae0e30649f10"
+}

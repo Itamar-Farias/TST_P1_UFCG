@@ -1,0 +1,22 @@
+{
+  "f4ecce5068d520e104f1ce119a4f529a": {
+    "timestamp": "2016-03-04T02:17:26.419420",
+    "feedback": "",
+    "summary": "...."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "7\n3\n15\n10\n15\n",
+      "output": "Voc\u00ea perdeu 50 min na semana (m\u00e9dia de 10.0 min por dia).\nIsso significa 0.69% da sua semana produtiva.\nDaria para assistir 1 epis\u00f3dio(s) de House.\n"
+    },
+    {
+      "category": "public",
+      "input": "10\n50\n40\n10\n10\n",
+      "output": "Voc\u00ea perdeu 120 min na semana (m\u00e9dia de 24.0 min por dia).\nIsso significa 1.67% da sua semana produtiva.\nDaria para assistir 2 epis\u00f3dio(s) de House.\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "14D5F16A000000",
+  "last_commit": "f4ecce5068d520e104f1ce119a4f529a"
+}

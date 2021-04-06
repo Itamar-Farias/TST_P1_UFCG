@@ -1,0 +1,17 @@
+{
+  "f6993566b8d6804a817112af76f3c479": {
+    "timestamp": "2016-04-17T13:11:08.073510",
+    "feedback": "",
+    "summary": ".."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "25638\n",
+      "output": "verdadeiro: 5 algarismos.\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "11595246000000",
+  "last_commit": "f6993566b8d6804a817112af76f3c479"
+}

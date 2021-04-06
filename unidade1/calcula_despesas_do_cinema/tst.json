@@ -1,0 +1,19 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "Domingo\n200\n2\n3\n40\n5\n1.5\n12\n",
+      "output": "Dia da semana? Orcamento? R$ Numero de adultos? Numero de criancas? Preco da pizza? R$ Preco do refrigerante? R$ Preco do estacionamento? R$ Preco do ingresso do cinema? R$ ========== Despesas de Domingo ==========\nDespesas com alimentacao: R$ 45.0\nDespesas com cimena: R$ 52.0\nDespesas por pessoa: R$ 19.7\nSaldo disponivel: 101.5\n"
+    }
+  ],
+  "filename": "calcula_despesas.py",
+  "tst_files": [],
+  "activity_revision": "1.0.0",
+  "key": "149B5536000000",
+  "last_commit": "2b37a95713693368ca53236ddc7d3223",
+  "2b37a95713693368ca53236ddc7d3223": {
+    "timestamp": "2016-05-01T14:46:08.764310",
+    "feedback": "",
+    "summary": ".."
+  }
+}

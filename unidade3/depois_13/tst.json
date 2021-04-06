@@ -1,0 +1,42 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "8\n5\n13\n",
+      "output": "0\n"
+    },
+    {
+      "category": "public",
+      "input": "1\n2\n3\n",
+      "output": "6\n"
+    },
+    {
+      "category": "public",
+      "input": "13\n1\n2\n",
+      "output": "0\n"
+    },
+    {
+      "category": "public",
+      "input": "1\n2\n13\n",
+      "output": "3\n"
+    }
+  ],
+  "17e56906df61b01d60b0e71f234af9ae": {
+    "timestamp": "2016-03-26T23:17:30.249950",
+    "feedback": "",
+    "summary": "......F.."
+  },
+  "activity_revision": "1.1.0",
+  "50efda9c6c0e549ebf2d7c926c039e5a": {
+    "timestamp": "2016-03-26T23:13:01.648450",
+    "feedback": "",
+    "summary": "......F.."
+  },
+  "key": "10AE2EC6000000",
+  "last_commit": "6317287a3cac70e2eb972c19d15c1248",
+  "6317287a3cac70e2eb972c19d15c1248": {
+    "timestamp": "2016-03-26T23:19:17.150470",
+    "feedback": "",
+    "summary": "........."
+  }
+}

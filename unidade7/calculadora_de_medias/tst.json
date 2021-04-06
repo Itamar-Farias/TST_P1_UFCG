@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "MA\n6 2 7 9\nMG\n4 6 9\nMH\n2 6 8\nQ\n",
+      "output": "M\u00e9dia Aritm\u00e9tica: 6.0000\n----\nM\u00e9dia Geom\u00e9trica: 6.0000\n----\nM\u00e9dia Harm\u00f4nica: 3.7895\n----\n"
+    },
+    {
+      "category": "public",
+      "input": "MG MA\n1.2 1.12 1.07\nMH MG\n2 6 8\nQ\n",
+      "output": "M\u00e9dia Geom\u00e9trica: 1.1287\nM\u00e9dia Aritm\u00e9tica: 1.1300\n----\nM\u00e9dia Harm\u00f4nica: 3.7895\nM\u00e9dia Geom\u00e9trica: 4.5789\n----\n"
+    }
+  ],
+  "a22cfcdbeffb48d5a3b0b62a312e6c14": {
+    "timestamp": "2016-04-17T14:24:57.914520",
+    "feedback": "",
+    "summary": ".."
+  },
+  "activity_revision": "1.0.0",
+  "key": "14CB0296000000",
+  "last_commit": "a22cfcdbeffb48d5a3b0b62a312e6c14"
+}

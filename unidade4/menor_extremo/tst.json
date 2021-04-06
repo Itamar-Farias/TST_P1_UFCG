@@ -1,0 +1,19 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "8\n3\n2\n7\n1\n0\n5\n2\n4\n",
+      "output": "Menor dos extremos: 3\n4 n\u00famero(s) abaixo do menor\n3 n\u00famero(s) acima do menor\n"
+    }
+  ],
+  "aa5547f9a44e4405614cf1e2c4216569": {
+    "timestamp": "2016-03-09T23:39:05.187860",
+    "feedback": "",
+    "summary": ".F....."
+  },
+  "filename": "menor_extremo.py",
+  "tst_files": [],
+  "activity_revision": "1.0.0",
+  "key": "12C253BA000000",
+  "last_commit": "aa5547f9a44e4405614cf1e2c4216569"
+}

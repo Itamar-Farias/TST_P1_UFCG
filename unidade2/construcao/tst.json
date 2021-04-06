@@ -1,0 +1,17 @@
+{
+  "f9314530e7736b7b2ba2fe5244d9fb0d": {
+    "timestamp": "2016-02-28T01:30:08.712200",
+    "feedback": "",
+    "summary": "...."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "12.1\n10.1\n12\n",
+      "output": "10 casa(s) pode(m) ser constru\u00edda(s) no terreno.\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "1493516A000000",
+  "last_commit": "f9314530e7736b7b2ba2fe5244d9fb0d"
+}

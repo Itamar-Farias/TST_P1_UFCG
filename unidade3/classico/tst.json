@@ -1,0 +1,27 @@
+{
+  "85a075d307cf4a742a163edba7cfb220": {
+    "timestamp": "2016-03-01T23:09:20.589400",
+    "feedback": "",
+    "summary": "......."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "2\n1\n",
+      "output": "Campinense\n"
+    },
+    {
+      "category": "public",
+      "input": "2\n2\n",
+      "output": "Empate\n"
+    },
+    {
+      "category": "public",
+      "input": "2\n4\n",
+      "output": "Treze\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "161112AA000000",
+  "last_commit": "85a075d307cf4a742a163edba7cfb220"
+}

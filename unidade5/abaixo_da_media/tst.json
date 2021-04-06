@@ -1,0 +1,19 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "10\n6\n29\n3\nfim\n",
+      "output": "12.00\n1 10\n2 6\n4 3\n"
+    }
+  ],
+  "3d2933828b4c57bf18fdb5b51e5f0e1f": {
+    "timestamp": "2016-03-22T23:36:54.126560",
+    "feedback": "",
+    "summary": "....."
+  },
+  "filename": "abaixo_da_media.py",
+  "tst_files": [],
+  "activity_revision": "1.0.1",
+  "key": "1261BE86000000",
+  "last_commit": "3d2933828b4c57bf18fdb5b51e5f0e1f"
+}

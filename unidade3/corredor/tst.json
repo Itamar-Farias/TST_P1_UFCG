@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "6\n0.5\n",
+      "output": "Dist\u00e2ncia?Tempo?\nVelocidade: 12.0km/h. Corredor aspirante.\n"
+    },
+    {
+      "category": "public",
+      "input": "6.0\n1.0\n",
+      "output": "Dist\u00e2ncia?Tempo?\nVelocidade: 6.0km/h. Corredor amador.\n"
+    }
+  ],
+  "5cc4994fdea68eddf9a930c225004ab4": {
+    "timestamp": "2016-03-22T10:59:03.766850",
+    "feedback": "",
+    "summary": "....."
+  },
+  "activity_revision": "1.0.2",
+  "key": "1317BF0A000000",
+  "last_commit": "5cc4994fdea68eddf9a930c225004ab4"
+}

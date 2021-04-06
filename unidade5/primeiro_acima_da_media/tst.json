@@ -1,0 +1,17 @@
+{
+  "d920d4de884a52c572a2490b7747f283": {
+    "timestamp": "2016-03-24T22:48:21.489840",
+    "feedback": "",
+    "summary": "......"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "3.6\n3.2\n3.9\n4.8\n4.1\nfim\n",
+      "output": "3, 4.80 > 3.92\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "12033AEA000000",
+  "last_commit": "d920d4de884a52c572a2490b7747f283"
+}

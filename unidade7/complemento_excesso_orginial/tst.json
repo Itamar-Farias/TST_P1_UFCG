@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "C1 7\nE127 7\n***\n",
+      "output": "00000111\n10000110\n"
+    },
+    {
+      "category": "public",
+      "input": "C1 5\n***\n",
+      "output": "00000101\n"
+    }
+  ],
+  "ef8b4ea1a41ebdde6cb32e4a7886a05d": {
+    "timestamp": "2016-05-01T14:04:49.225410",
+    "feedback": "",
+    "summary": "......"
+  },
+  "activity_revision": "1.0.0",
+  "key": "14E5A4CA000000",
+  "last_commit": "ef8b4ea1a41ebdde6cb32e4a7886a05d"
+}

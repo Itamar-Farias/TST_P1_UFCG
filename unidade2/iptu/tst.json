@@ -1,0 +1,17 @@
+{
+  "f44ae43d271c796b4531f2168f93636a": {
+    "timestamp": "2016-03-19T23:03:41.372180",
+    "feedback": "",
+    "summary": "..."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "150.0\n0.89\n",
+      "output": "\u00c1rea constru\u00edda? Al\u00edquota? IPTU: R$ 168.50\n\nPagamento:\n1. Quota \u00fanica. R$ 126.38\n2. Em 6 parcelas. Total: R$ 160.07\n   6 x R$ 26.68\n3. Em 10 parcelas. Total: R$ 168.50\n   10 x R$ 16.85\n"
+    }
+  ],
+  "activity_revision": "1.1.1",
+  "key": "16EADA86000000",
+  "last_commit": "f44ae43d271c796b4531f2168f93636a"
+}

@@ -1,0 +1,22 @@
+{
+  "fc4a255f1b16c375a7ed4076ddce601a": {
+    "timestamp": "2016-04-16T18:13:22.770310",
+    "feedback": "",
+    "summary": "........"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "zumbi Zeca Recife\n",
+      "output": "2\n"
+    },
+    {
+      "category": "public",
+      "input": "livro cd Software\n",
+      "output": "0\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "16229ADA000000",
+  "last_commit": "fc4a255f1b16c375a7ed4076ddce601a"
+}

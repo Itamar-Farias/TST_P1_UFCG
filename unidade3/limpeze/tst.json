@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "1\n5\n",
+      "output": "R$ 400,00\nBrinde!\n"
+    },
+    {
+      "category": "public",
+      "input": "3\n",
+      "output": "R$ 50,00\n"
+    },
+    {
+      "category": "public",
+      "input": "1\n2\n",
+      "output": "R$ 160,00\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "00ff4357c981b947161ed2b1dfd3c75a": {
+    "timestamp": "2016-03-26T21:21:37.848770",
+    "feedback": "",
+    "summary": "......"
+  },
+  "key": "1775CA9A000000",
+  "last_commit": "00ff4357c981b947161ed2b1dfd3c75a"
+}

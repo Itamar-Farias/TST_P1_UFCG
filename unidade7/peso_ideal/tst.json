@@ -1,0 +1,27 @@
+{
+  "d7f2e1fe01429e097678ffae78c67ad0": {
+    "timestamp": "2016-04-20T01:58:01.646750",
+    "feedback": "",
+    "summary": "....."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "m 1.89\n****\n",
+      "output": "Homem: peso ideal \u00e9 79.4\n"
+    },
+    {
+      "category": "public",
+      "input": "F 1.60\n****\n",
+      "output": "Mulher: peso ideal \u00e9 54.7\n"
+    },
+    {
+      "category": "public",
+      "input": "M 1.60\n****\n",
+      "output": "Homem: peso ideal \u00e9 58.3\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "14558E46000000",
+  "last_commit": "d7f2e1fe01429e097678ffae78c67ad0"
+}

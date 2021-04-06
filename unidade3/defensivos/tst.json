@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "Herbicida\n30\n",
+      "output": "9 Herbicida(s). 900.00 reais.\n"
+    },
+    {
+      "category": "public",
+      "input": "Fungicida\n7\n",
+      "output": "1 Fungicida(s). 320.00 reais.\n"
+    }
+  ],
+  "filename": "defensivos.py",
+  "tst_files": [],
+  "activity_revision": "1.1.1",
+  "key": "10503AC6000000",
+  "last_commit": "9c0f8084b690a8f645579d3e006daa49",
+  "9c0f8084b690a8f645579d3e006daa49": {
+    "timestamp": "2016-05-04T01:59:42.014870",
+    "feedback": "",
+    "summary": "..F.FFF"
+  }
+}

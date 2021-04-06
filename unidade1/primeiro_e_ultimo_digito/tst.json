@@ -1,0 +1,18 @@
+{
+  "activity_revision": "1.0.0",
+  "tests": [
+    {
+      "category": "public",
+      "input": "8533\n",
+      "name": "exemplo",
+      "output": "8 3\n"
+    }
+  ],
+  "1828745b95d8d8ebbc8db61d3294db42": {
+    "timestamp": "2016-03-19T13:36:19.050400",
+    "feedback": "",
+    "summary": "....."
+  },
+  "key": "11B1A09A000000",
+  "last_commit": "1828745b95d8d8ebbc8db61d3294db42"
+}

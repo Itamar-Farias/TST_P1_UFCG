@@ -1,0 +1,17 @@
+{
+  "fdf062859dc65cf3e6a206c386a2eea6": {
+    "timestamp": "2016-02-28T13:32:32.735270",
+    "feedback": "",
+    "summary": "..."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "230\n4.25\n",
+      "output": "Valor da passagem: R$ 1028.50\n\nPagamento:\n1. \u00c0 vista. R$ 771.38\n2. Em 6 parcelas. Total: R$ 977.07\n   6 x R$ 162.85\n3. Em 10 parcelas. Total: R$ 1028.50\n   10 x R$ 102.85\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "16C64E6A000000",
+  "last_commit": "fdf062859dc65cf3e6a206c386a2eea6"
+}

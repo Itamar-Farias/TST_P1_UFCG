@@ -1,0 +1,21 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "Jansen Italo Ana\n14 21 60\n",
+      "output": "Italo\nAna\n"
+    },
+    {
+      "category": "public",
+      "input": "Cristina Larissa\n10 11\n",
+      "output": ""
+    },
+    {
+      "category": "public",
+      "input": "Laura\n18\n",
+      "output": "Laura\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "17FD2B1A000000"
+}

@@ -1,0 +1,19 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "um exemplo de frase\n1\n12\n",
+      "output": "m , e x e m p l o , d\n"
+    }
+  ],
+  "filename": "espaco_virgula.py",
+  "tst_files": [],
+  "602e862323e860dd55b28f6e55551775": {
+    "timestamp": "2016-03-19T15:00:43.635940",
+    "feedback": "",
+    "summary": "....*"
+  },
+  "activity_revision": "1.1.1",
+  "key": "1199EF5A000000",
+  "last_commit": "602e862323e860dd55b28f6e55551775"
+}

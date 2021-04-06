@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "Q 2\nfim\n",
+      "output": "A \u00e1rea do quadrado \u00e9 4.00\n"
+    },
+    {
+      "category": "public",
+      "input": "C 2.5\nfim\n",
+      "output": "A \u00e1rea do c\u00edrculo \u00e9 19.63\n"
+    },
+    {
+      "category": "public",
+      "input": "T 2.3 5\nfim\n",
+      "output": "A \u00e1rea do triangulo \u00e9 5.75\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "587e57f0455aa630696b5a988fe2a40f": {
+    "timestamp": "2016-04-16T12:18:22.965170",
+    "feedback": "",
+    "summary": "..."
+  },
+  "key": "16595246000000",
+  "last_commit": "587e57f0455aa630696b5a988fe2a40f"
+}

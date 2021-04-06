@@ -1,0 +1,16 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "678.00\n6.62\n8.0\n",
+      "output": "Dados do novo sal\u00e1rio\n===\nSal\u00e1rio: R$ 722.88\nContribui\u00e7\u00e3o previdenci\u00e1ria: R$ 57.83 (8.0%)\nSal\u00e1rio l\u00edquido: R$ 665.05\n"
+    },
+    {
+      "category": "public",
+      "input": "1000.00\n10.0\n5.0\n",
+      "output": "Dados do novo sal\u00e1rio\n===\nSal\u00e1rio: R$ 1100.00\nContribui\u00e7\u00e3o previdenci\u00e1ria: R$ 55.00 (5.0%)\nSal\u00e1rio l\u00edquido: R$ 1045.00\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "1755F1BA000000"
+}

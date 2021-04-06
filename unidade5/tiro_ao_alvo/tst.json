@@ -1,0 +1,17 @@
+{
+  "ec4a4ace1fba337cd27178e5166a593f": {
+    "timestamp": "2016-03-24T13:34:22.662540",
+    "feedback": "",
+    "summary": "...."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "35.0\n40.0\n85\n45\n-20\n15\n215\n181\n",
+      "output": "53.15 cm (melhor tiro)\n96.18 cm\n25.00 cm (melhor tiro)\n--\nnum tiros: 3\nmelhor tiro: 25.00 cm\ndistancia media: 58.11 cm\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "key": "1233729A000000",
+  "last_commit": "ec4a4ace1fba337cd27178e5166a593f"
+}

@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "10.0\n7.0\n",
+      "output": "Mastery Learning\nC\u00e1lculo da nota na unidade\n\nNota? Nota? M\u00e9dia: 8.5 (aprovado)\nPenaliza\u00e7\u00e3o: 0.0\n\n===\nNotas v\u00e1lidas: 10.0 e 7.0\nM\u00e9dia parcial na unidade: 8.5\nPenaliza\u00e7\u00f5es: 0.0\nM\u00e9dia final na unidade: 8.5\n"
+    },
+    {
+      "category": "public",
+      "input": "4.0\n6.0\n3.0\n7.0\n",
+      "output": "Mastery Learning\nC\u00e1lculo da nota na unidade\n\nNota? Nota? M\u00e9dia: 5.0 (cursando)\nPenaliza\u00e7\u00e3o: 0.0\n\nNota? M\u00e9dia: 5.0 (cursando)\nPenaliza\u00e7\u00e3o: 0.5\n\nNota? M\u00e9dia: 6.5 (aprovado)\nPenaliza\u00e7\u00e3o: 1.0\n\n===\nNotas v\u00e1lidas: 7.0 e 6.0\nM\u00e9dia parcial na unidade: 6.5\nPenaliza\u00e7\u00f5es: 1.0\nM\u00e9dia final na unidade: 5.5\n"
+    }
+  ],
+  "filename": "mastery.py",
+  "tst_files": [],
+  "7c883bc92076b6b1ab32e46fda651231": {
+    "timestamp": "2016-03-26T15:06:32.508540",
+    "feedback": "",
+    "summary": ".."
+  },
+  "activity_revision": "1.0.1",
+  "key": "1492874A000000",
+  "last_commit": "7c883bc92076b6b1ab32e46fda651231"
+}

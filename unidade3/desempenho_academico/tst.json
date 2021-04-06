@@ -1,0 +1,32 @@
+{
+  "bc11a1da3c2b2a870d7334b0c46738c3": {
+    "timestamp": "2016-03-02T00:38:56.265670",
+    "feedback": "",
+    "summary": "..........."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "3\n340\n120\n40 \n500\n",
+      "output": "Promo\u00e7\u00e3o indeferida. N\u00famero de semestres insuficiente.\n"
+    },
+    {
+      "category": "public",
+      "input": "4\n300\n120\n40\n500\n",
+      "output": "Promo\u00e7\u00e3o indeferida. Pontua\u00e7\u00e3o m\u00ednima n\u00e3o alcan\u00e7ada.\n"
+    },
+    {
+      "category": "public",
+      "input": "4\n320\n110\n20\n10\n",
+      "output": "Promo\u00e7\u00e3o indeferida. M\u00e9dia insuficiente.\n"
+    },
+    {
+      "category": "public",
+      "input": "4\n330\n150\n40\n350\n",
+      "output": "Promo\u00e7\u00e3o deferida. Parab\u00e9ns!\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "110F06AA000000",
+  "last_commit": "bc11a1da3c2b2a870d7334b0c46738c3"
+}

@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "4\n6\n7\n15\n8\n",
+      "output": "soma: 14\nm\u00e9dia: 7.0\n1 n\u00famero(s) abaixo da m\u00e9dia\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "4638ddfcf8d03ac1dd3efa301c2c2f86": {
+    "timestamp": "2016-03-07T23:49:17.122850",
+    "feedback": "",
+    "summary": "...FF"
+  },
+  "key": "129B948A000000",
+  "last_commit": "4638ddfcf8d03ac1dd3efa301c2c2f86"
+}

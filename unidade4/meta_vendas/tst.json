@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "9000\n1600\n1830.50\n1510\n2325.30\n2300\n3000\n",
+      "output": "Total de vendas: R$ 12565.80 (meta atingida)\n----\nBonifica\u00e7\u00e3o:\nFuncion\u00e1rio 1: R$ 16.00\nFuncion\u00e1rio 2: R$ 18.30\nFuncion\u00e1rio 3: R$ 15.10\nFuncion\u00e1rio 4: R$ 23.25\nFuncion\u00e1rio 5: R$ 23.00\nFuncion\u00e1rio 6: R$ 30.00\n"
+    },
+    {
+      "category": "public",
+      "input": "9000\n1400\n1830.50\n1510\n2325.30\n2300\n3000\n",
+      "output": "Total de vendas: R$ 12365.80 (meta n\u00e3o foi atingida)\n----\n"
+    }
+  ],
+  "cc45508c1602d43d883dc0cf01e394a9": {
+    "timestamp": "2016-03-19T11:41:18.062840",
+    "feedback": "",
+    "summary": ".....F.."
+  },
+  "4f20b1be76930de9953ec6dc9086d498": {
+    "timestamp": "2016-03-19T11:45:26.301130",
+    "feedback": "",
+    "summary": "........"
+  },
+  "activity_revision": "1.1.0",
+  "key": "12EADA86000000",
+  "last_commit": "4f20b1be76930de9953ec6dc9086d498"
+}

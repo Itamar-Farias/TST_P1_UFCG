@@ -1,0 +1,16 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "output": "{{Hello}} {{World}}!\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "1ad288ac17f03cf900e41aabb8730f65": {
+    "timestamp": "2016-02-19T18:09:57.812560",
+    "feedback": "",
+    "summary": ".."
+  },
+  "key": "15A3AA1A000000",
+  "last_commit": "1ad288ac17f03cf900e41aabb8730f65"
+}

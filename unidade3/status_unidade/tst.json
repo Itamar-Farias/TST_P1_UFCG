@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "3\n3.0\n2.0\n10.0\n",
+      "output": "4.5\nAluno ainda n\u00e3o aprovado na unidade\n"
+    },
+    {
+      "category": "public",
+      "input": "2\n6.0\n6.0\n",
+      "output": "6.0\nAluno aprovado na unidade\n"
+    },
+    {
+      "category": "public",
+      "input": "1\n4.0\n",
+      "output": "4.0\nAluno ainda n\u00e3o aprovado na unidade\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "6ec9f786937b86ad2fd87ed1edc8208a": {
+    "timestamp": "2016-03-26T21:37:51.226200",
+    "feedback": "",
+    "summary": "..."
+  },
+  "key": "149A10CA000000",
+  "last_commit": "6ec9f786937b86ad2fd87ed1edc8208a"
+}

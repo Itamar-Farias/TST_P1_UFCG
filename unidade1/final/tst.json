@@ -1,0 +1,17 @@
+{
+  "85a476a5e5c71c2ff65c262992c5faf4": {
+    "timestamp": "2016-02-24T01:10:00.237520",
+    "feedback": "",
+    "summary": "..."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "0.1\n6.0\n0.3\n5.0\n0.6\n7.0\n",
+      "output": "== Est\u00e1gio 1 ==\nPeso? Nota? == Est\u00e1gio 2 ==\nPeso? Nota? == Est\u00e1gio 3 ==\nPeso? Nota? == Resultados ==\nM\u00e9dia parcial: 6.3\nNota na final, pra m\u00e9dia 5.0 = 3.0\nNota na final, pra m\u00e9dia 7.0 = 8.0\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "1166B23A000000",
+  "last_commit": "85a476a5e5c71c2ff65c262992c5faf4"
+}

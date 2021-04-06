@@ -1,0 +1,32 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "1\n500\n",
+      "output": "TAV. R$ 100.00\n"
+    },
+    {
+      "category": "public",
+      "input": "6\n300\n",
+      "output": "\u00d4nibus. R$ 132.00\n"
+    },
+    {
+      "category": "public",
+      "input": "3\n220\n",
+      "output": "T\u00e1xi. R$ 200.00\n"
+    }
+  ],
+  "a38b2e9e20b353f007934575584927f3": {
+    "timestamp": "2016-03-27T11:08:29.912240",
+    "feedback": "",
+    "summary": ".......F."
+  },
+  "7e65b79f55b2279f96e1c802277d6141": {
+    "timestamp": "2016-03-27T11:24:55.493570",
+    "feedback": "",
+    "summary": ".......F."
+  },
+  "activity_revision": "1.0.1",
+  "key": "1183893A000000",
+  "last_commit": "7e65b79f55b2279f96e1c802277d6141"
+}

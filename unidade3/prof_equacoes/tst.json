@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "3\n-7\n2\n",
+      "output": "x1 = 2.00\nx2 = 0.33\n"
+    },
+    {
+      "category": "public",
+      "input": "5\n-6\n5\n",
+      "output": "sem raizes reais\n"
+    },
+    {
+      "category": "public",
+      "input": "-1\n4\n-4\n",
+      "output": "x = 2.00\n"
+    }
+  ],
+  "240b6b68e82fbfeec9349be796d3a944": {
+    "timestamp": "2016-03-26T22:59:30.747090",
+    "feedback": "",
+    "summary": "........."
+  },
+  "activity_revision": "1.1.0",
+  "key": "123FE1C6000000",
+  "last_commit": "240b6b68e82fbfeec9349be796d3a944"
+}

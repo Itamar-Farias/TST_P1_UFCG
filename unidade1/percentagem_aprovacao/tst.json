@@ -1,0 +1,19 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "42\n17\n",
+      "output": "An\u00e1lise da Turma\n===\nN\u00famero de aprovados? N\u00famero de reprovados? ---\nTotal de alunos na turma: 59\nAprovados: 42 = 71.2%\nReprovados: 17 = 28.8%\n"
+    }
+  ],
+  "c69fa6df76fb9a78c1870a95699bdd1f": {
+    "timestamp": "2016-02-22T22:14:26.087110",
+    "feedback": "",
+    "summary": "...."
+  },
+  "filename": "aprovacao.py",
+  "tst_files": [],
+  "activity_revision": "1.0.0",
+  "key": "117CF70A000000",
+  "last_commit": "c69fa6df76fb9a78c1870a95699bdd1f"
+}

@@ -1,0 +1,17 @@
+{
+  "3e3e6f7369cc8dbc433a3fcd28c2c95a": {
+    "timestamp": "2016-02-27T21:50:00.847200",
+    "feedback": "",
+    "summary": "...."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "abrantes\n123987695\ndalton\n98765437\nwilkerson\n98654300\n",
+      "output": "SPLab - Espa\u00e7o utilizado pelos usu\u00e1rios\n---------------------------------------------\nNr., Usu\u00e1rio, Espa\u00e7o Utilizado\n\n1, abrantes, 118.24 MB\n2, dalton, 94.19 MB\n3, wilkerson, 94.08 MB\n\nEspa\u00e7o total ocupado: 306.52 MB\nEspa\u00e7o m\u00e9dio ocupado: 102.17 MB\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "1467BF0A000000",
+  "last_commit": "3e3e6f7369cc8dbc433a3fcd28c2c95a"
+}

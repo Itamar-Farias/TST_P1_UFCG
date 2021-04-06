@@ -1,0 +1,32 @@
+{
+  "c2b2f8d53d11ba86647fb80431d213ae": {
+    "timestamp": "2016-03-26T17:54:25.452290",
+    "feedback": "",
+    "summary": ".........."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "4.0\n6.0\n5.0\n25\n",
+      "output": "reprovado por faltas\n"
+    },
+    {
+      "category": "public",
+      "input": "4.0\n2.0\n3.0\n3\n",
+      "output": "reprovado por nota\n"
+    },
+    {
+      "category": "public",
+      "input": "4.0\n6.0\n5.0\n5\n",
+      "output": "prova final\n"
+    },
+    {
+      "category": "public",
+      "input": "10.0\n10.0\n10.0\n7\n",
+      "output": "aprovado por media\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "1294AEEA000000",
+  "last_commit": "c2b2f8d53d11ba86647fb80431d213ae"
+}

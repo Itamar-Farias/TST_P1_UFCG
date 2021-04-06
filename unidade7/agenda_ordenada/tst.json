@@ -1,0 +1,23 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "vicente\nbianca\ncarlos\nantonio\nzelia\n####\n",
+      "name": "exemplo1",
+      "output": "* vicente\n----\n* bianca\nvicente\n----\nbianca\n* carlos\nvicente\n----\n* antonio\nbianca\ncarlos\nvicente\n----\nantonio\nbianca\ncarlos\nvicente\n* zelia\n----\n"
+    }
+  ],
+  "0c0e4326cb3b73e3297d5d30378f22d0": {
+    "timestamp": "2016-04-16T19:28:11.879510",
+    "feedback": "",
+    "summary": ".F.."
+  },
+  "88f905384de46db8608d1078e972548c": {
+    "timestamp": "2016-04-16T20:31:10.151680",
+    "feedback": "",
+    "summary": ".F.."
+  },
+  "activity_revision": "1.0.0",
+  "key": "1319A826000000",
+  "last_commit": "88f905384de46db8608d1078e972548c"
+}

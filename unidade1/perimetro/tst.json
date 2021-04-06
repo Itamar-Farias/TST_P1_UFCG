@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "200\n300\n",
+      "output": "O per\u00edmetro resultante (em cm) \u00e9 100.00.\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "e9121b80f2ec5c5e32ac9ee56cf2d5af": {
+    "timestamp": "2016-02-23T00:51:28.479500",
+    "feedback": "",
+    "summary": ".."
+  },
+  "key": "1439070A000000",
+  "last_commit": "e9121b80f2ec5c5e32ac9ee56cf2d5af"
+}

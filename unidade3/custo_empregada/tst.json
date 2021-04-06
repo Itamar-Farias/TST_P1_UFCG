@@ -1,0 +1,22 @@
+{
+  "8483679e0a23b9e43ab4858746baf9f1": {
+    "timestamp": "2016-05-04T01:01:31.435080",
+    "feedback": "",
+    "summary": "..."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "678.0\n22\n4.20\n",
+      "output": "O sal\u00e1rio base \u00e9 R$ 678.00\nO custo mensal para o empregador \u00e9 de R$ 865.32\nO sal\u00e1rio l\u00edquido que o trabalhador ir\u00e1 receber no m\u00eas \u00e9 R$ 583.08\n"
+    },
+    {
+      "category": "public",
+      "input": "1500.0\n1\n1.5\n",
+      "output": "O sal\u00e1rio base \u00e9 R$ 1500.00\nO custo mensal para o empregador \u00e9 de R$ 1800.00\nO sal\u00e1rio l\u00edquido que o trabalhador ir\u00e1 receber no m\u00eas \u00e9 R$ 1365.00\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "key": "11703AAA000000",
+  "last_commit": "8483679e0a23b9e43ab4858746baf9f1"
+}

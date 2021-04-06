@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "Antonio\n15\n678.00\n20.00\n",
+      "output": "O Sal\u00e1rio Bruto de Antonio \u00e9 de R$ 3012.00\nO Sal\u00e1rio L\u00edquido de Antonio \u00e9 de R$ 2048.16\n"
+    }
+  ],
+  "d394c02a5ba5e12181b0a1f451e91d2a": {
+    "timestamp": "2016-03-19T23:22:32.954300",
+    "feedback": "",
+    "summary": "...."
+  },
+  "activity_revision": "1.1.0",
+  "key": "13495C7A000000",
+  "last_commit": "d394c02a5ba5e12181b0a1f451e91d2a"
+}

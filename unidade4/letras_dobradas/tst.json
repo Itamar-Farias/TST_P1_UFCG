@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "5\npizza\natum\ncoordenacao\nmartelo\ncostela\n",
+      "output": "2 palavra(s) com letras dobradas:\npizza\ncoordenacao\n---\n3 palavra(s) sem letras dobradas:\natum\nmartelo\ncostela\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "4d575e95ff0df195fd598143a7f12915": {
+    "timestamp": "2016-03-17T22:02:39.438990",
+    "feedback": "",
+    "summary": "......."
+  },
+  "key": "1236F432000000",
+  "last_commit": "4d575e95ff0df195fd598143a7f12915"
+}

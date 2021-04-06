@@ -1,0 +1,29 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "10.0\n60\n",
+      "output": "O ritmo do maratonista foi 6.00 min/km.\n"
+    },
+    {
+      "category": "public",
+      "input": "42.2\n180\n",
+      "output": "O ritmo do maratonista foi 4.27 min/km.\n"
+    }
+  ],
+  "0f3e11fbe2df2b70931bf89bebf289da": {
+    "timestamp": "2016-03-22T09:57:49.828760",
+    "feedback": "",
+    "summary": "....."
+  },
+  "filename": "ritmo.py",
+  "tst_files": [],
+  "d878b476738fcbb79b553eafead20fec": {
+    "timestamp": "2016-02-27T22:01:21.162430",
+    "feedback": "",
+    "summary": "FFFFF"
+  },
+  "activity_revision": "1.1.2",
+  "key": "1122EE6A000000",
+  "last_commit": "0f3e11fbe2df2b70931bf89bebf289da"
+}

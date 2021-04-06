@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "40.0\n20.0\n100.0\n10.0\n",
+      "output": "O consumo total foi de 6.0 km/l.\n"
+    }
+  ],
+  "activity_revision": "1.1.8",
+  "key": "13CC0A6A000000"
+}

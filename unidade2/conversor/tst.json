@@ -1,0 +1,19 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "10250\n",
+      "output": "10250 m = 10.25 km\n"
+    }
+  ],
+  "398b987d2b589ccd62be17757a7caabf": {
+    "timestamp": "2016-02-28T14:03:13.797890",
+    "feedback": "",
+    "summary": "..F."
+  },
+  "filename": "conversor.py",
+  "tst_files": [],
+  "activity_revision": "1.1.0",
+  "key": "11ACC5BA000000",
+  "last_commit": "398b987d2b589ccd62be17757a7caabf"
+}

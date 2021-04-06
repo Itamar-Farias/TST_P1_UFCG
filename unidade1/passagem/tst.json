@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "1256BL\n10:43\n12A\nB\n70.00\n100.00\n",
+      "output": "### Cart\u00e3o de Embarque ###\nIdentificador do voo: 1256BL. Hor\u00e1rio: 10:43. Assento: 12A. Port\u00e3o: B.\nTotal de Imposto: 30.0%.\n"
+    }
+  ],
+  "activity_revision": "1.1.5",
+  "07dbbe2ee43b1f36a73424d0f0021e57": {
+    "timestamp": "2016-02-24T02:03:58.562050",
+    "feedback": "",
+    "summary": "..."
+  },
+  "key": "14124A3A000000",
+  "last_commit": "07dbbe2ee43b1f36a73424d0f0021e57"
+}

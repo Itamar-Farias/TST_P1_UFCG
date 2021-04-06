@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "AGCT\nTTTGGA\nACT\n",
+      "output": "ACT 3\n"
+    },
+    {
+      "category": "public",
+      "input": "CCGG\nCCAA\nACTGGG\n",
+      "output": "CCGG 4\n"
+    }
+  ],
+  "8bfd60daf24d47b320df408659813d24": {
+    "timestamp": "2016-03-27T00:37:28.283260",
+    "feedback": "",
+    "summary": "......."
+  },
+  "activity_revision": "1.1.1",
+  "key": "14B77EEA000000",
+  "last_commit": "8bfd60daf24d47b320df408659813d24",
+  "3ebd36509eee883d87cbb445b3368522": {
+    "timestamp": "2016-03-27T00:28:42.415550",
+    "feedback": "",
+    "summary": ".....F."
+  }
+}

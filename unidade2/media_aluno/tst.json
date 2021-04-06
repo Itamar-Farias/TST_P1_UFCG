@@ -1,0 +1,17 @@
+{
+  "cf2c632cc48758ff6d8dd8ca3410db1c": {
+    "timestamp": "2016-03-19T16:34:01.103270",
+    "feedback": "",
+    "summary": "....."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "10.0\n8.0\n6.0\n",
+      "output": "7.4\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "124D3286000000",
+  "last_commit": "cf2c632cc48758ff6d8dd8ca3410db1c"
+}

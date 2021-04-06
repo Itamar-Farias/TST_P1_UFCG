@@ -1,0 +1,20 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "01234\n",
+      "output": "01234-10\n"
+    },
+    {
+      "category": "public",
+      "input": "40016\n",
+      "output": "40016-00\n"
+    }
+  ],
+  "75347fc6f86b6222839c12eabc23181d": {
+    "timestamp": "2016-03-19T14:08:15.122790"
+  },
+  "activity_revision": "1.1.0",
+  "key": "12FE3F5A000000",
+  "last_commit": "75347fc6f86b6222839c12eabc23181d"
+}

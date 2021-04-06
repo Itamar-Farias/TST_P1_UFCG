@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "58\n10\n50\n60\n55\n57\n59\n58\n",
+      "output": "palpite? baixo\npalpite? baixo\npalpite? alto\npalpite? baixo\npalpite? baixo\npalpite? alto\npalpite? Voc\u00ea acertou em 7 tentativas.\n"
+    }
+  ],
+  "149fc39eb6784de322dd220f7a16d1b7": {
+    "timestamp": "2016-03-25T02:15:03.444880",
+    "feedback": "",
+    "summary": "ooo"
+  },
+  "93901db4cfa9b0fcd926c918daa5b46a": {
+    "timestamp": "2016-03-25T02:17:12.200710",
+    "feedback": "",
+    "summary": "..."
+  },
+  "activity_revision": "1.0.1",
+  "key": "16EE9586000000",
+  "last_commit": "93901db4cfa9b0fcd926c918daa5b46a",
+  "a8a6f914d644e07d9e5e9e35952cf2ff": {
+    "timestamp": "2016-03-25T01:51:14.423170",
+    "feedback": "",
+    "summary": "ooo"
+  }
+}

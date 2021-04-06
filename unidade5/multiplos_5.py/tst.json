@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "15\n",
+      "output": "10\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "e9d31ddc372363e062f5a9b7a2175c3a": {
+    "timestamp": "2016-03-24T16:19:39.885720",
+    "feedback": "",
+    "summary": "...."
+  },
+  "key": "13AFFF26000000",
+  "last_commit": "e9d31ddc372363e062f5a9b7a2175c3a"
+}

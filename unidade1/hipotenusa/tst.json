@@ -1,0 +1,19 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "3.0\n4.0\n",
+      "output": "Medida do Cateto 1? Medida do Cateto 2? Medida da Hipotenusa: 5.00\n"
+    }
+  ],
+  "4934ec0ef25e60104eff13cd08498edb": {
+    "timestamp": "2016-02-19T17:58:21.966960",
+    "feedback": "",
+    "summary": ".."
+  },
+  "filename": "hip.py",
+  "tst_files": [],
+  "activity_revision": "1.1.0",
+  "key": "16E55A1A000000",
+  "last_commit": "4934ec0ef25e60104eff13cd08498edb"
+}

@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "abrantes 123987695\ndalton 98765437\neliane 43562789\nwilkerson 98654300\nmassoni 87002345\nmartha 123478\nuian 1048576\nfim\n",
+      "output": "SPLab - Espa\u00e7o utilizado pelos usu\u00e1rios\n---------------------------------------------\nNr., Usu\u00e1rio, Espa\u00e7o Utilizado, % do uso\n\n1, abrantes, 118.24 MB, 27.36%\n2, dalton, 94.19 MB, 21.80%\n3, eliane, 41.54 MB, 9.61%\n4, wilkerson, 94.08 MB, 21.77%\n5, massoni, 82.97 MB, 19.20%\n6, martha, 0.12 MB, 0.03%\n7, uian, 1.00 MB, 0.23%\n\nEspa\u00e7o total ocupado: 432.15 MB\nEspa\u00e7o m\u00e9dio ocupado: 61.74 MB\n"
+    },
+    {
+      "category": "public",
+      "input": "uian 1048576\ndennis 1048576\nfim\n",
+      "output": "SPLab - Espa\u00e7o utilizado pelos usu\u00e1rios\n---------------------------------------------\nNr., Usu\u00e1rio, Espa\u00e7o Utilizado, % do uso\n\n1, uian, 1.00 MB, 50.00%\n2, dennis, 1.00 MB, 50.00%\n\nEspa\u00e7o total ocupado: 2.00 MB\nEspa\u00e7o m\u00e9dio ocupado: 1.00 MB\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "eb55eb3aad9288625e82bb5957a59c68": {
+    "timestamp": "2016-04-15T22:52:21.219210",
+    "feedback": "",
+    "summary": "..."
+  },
+  "key": "149E5826000000",
+  "last_commit": "eb55eb3aad9288625e82bb5957a59c68"
+}

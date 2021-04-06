@@ -1,0 +1,16 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "9\nABC\n13\nASA\n13\nBahia\n6\nCampinense\n17\nCeara\n13\nFortaleza\n14\nSanta Cruz\n13\nSport\n15\nVitoria\n14\n",
+      "output": "Time(s) com melhor ataque (17 gol(s)):\nCampinense\n\nM\u00e9dia de gols marcados: 13.1\n"
+    },
+    {
+      "category": "public",
+      "input": "5\nFlamengo\n35\nCruzeiro\n47\nFluminense\n12\nVasco\n15\nAtletico-PR\n47\n",
+      "output": "Time(s) com melhor ataque (47 gol(s)):\nCruzeiro\nAtletico-PR\n\nM\u00e9dia de gols marcados: 31.2\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "1070F53A000000"
+}

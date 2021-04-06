@@ -1,0 +1,23 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "12\n",
+      "name": "exemplo",
+      "output": "12\n"
+    },
+    {
+      "category": "public",
+      "input": "-3\n",
+      "output": "3\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "621356e51d733d70102e85c3101b3220": {
+    "timestamp": "2016-04-21T00:38:22.541810",
+    "feedback": "",
+    "summary": "..."
+  },
+  "key": "11CAE9A6000000",
+  "last_commit": "621356e51d733d70102e85c3101b3220"
+}

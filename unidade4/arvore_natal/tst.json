@@ -1,0 +1,19 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "5\n",
+      "output": "    o\n   ooo\n  ooooo\n ooooooo\nooooooooo\n    o\n"
+    }
+  ],
+  "cbb1ef017c18c06afefc5e91c4f8570b": {
+    "timestamp": "2016-03-05T23:25:20.210030",
+    "feedback": "",
+    "summary": "...."
+  },
+  "filename": "arvore.py",
+  "tst_files": [],
+  "activity_revision": "1.0.0",
+  "key": "1624F3BA000000",
+  "last_commit": "cbb1ef017c18c06afefc5e91c4f8570b"
+}

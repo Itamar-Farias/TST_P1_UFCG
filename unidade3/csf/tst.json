@@ -1,0 +1,32 @@
+{
+  "a4d523811c44accb0864724ecc3e3424": {
+    "timestamp": "2016-03-26T21:58:47.740440",
+    "feedback": "",
+    "summary": ".........."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "600\n120\n",
+      "output": "Todas as condi\u00e7\u00f5es satisfeitas.\n"
+    },
+    {
+      "category": "public",
+      "input": "500\n321\n",
+      "output": "Condi\u00e7\u00e3o ENEM n\u00e3o satisfeita.\n"
+    },
+    {
+      "category": "public",
+      "input": "673\n20\n",
+      "output": "Condi\u00e7\u00e3o CR\u00c9DITOS n\u00e3o satisfeita.\n"
+    },
+    {
+      "category": "public",
+      "input": "500\n410\n",
+      "output": "Nenhuma condi\u00e7\u00e3o satisfeita.\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "172E2EC6000000",
+  "last_commit": "a4d523811c44accb0864724ecc3e3424"
+}

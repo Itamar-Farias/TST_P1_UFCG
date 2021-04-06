@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "R A12345\nR A12345\nP A\nR A00007\nP A\nR B90000\nP B\nR B90001\nP B\nS\n",
+      "output": "2\n3\n1\n2\n"
+    }
+  ],
+  "activity_revision": "1.0.2",
+  "b4c9247e468e5a919d7c3ea34f2477d9": {
+    "timestamp": "2016-03-24T14:40:52.363990",
+    "feedback": "",
+    "summary": "....."
+  },
+  "key": "12DFE1C6000000",
+  "last_commit": "b4c9247e468e5a919d7c3ea34f2477d9"
+}

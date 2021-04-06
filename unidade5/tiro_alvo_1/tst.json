@@ -1,0 +1,32 @@
+{
+  "b37468ec01f53f95b9cc2ed707fc9cee": {
+    "timestamp": "2016-03-24T16:39:58.223170",
+    "feedback": "",
+    "summary": "....F"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "85, 45\n35.0, 40.0\n-20, 15\n215, 181\n",
+      "output": "96.18\n53.15\n25.00\n--\nnum disparos: 3\ndistancia media: 58.11\n"
+    }
+  ],
+  "70fe6de73303da41327e8ed71cd4c6ae": {
+    "timestamp": "2016-03-24T16:33:44.994910",
+    "feedback": "",
+    "summary": "..v.F"
+  },
+  "activity_revision": "1.0.1",
+  "key": "13F2B4DA000000",
+  "last_commit": "db2f72b3ed04b6010c1103181c3d9997",
+  "db2f72b3ed04b6010c1103181c3d9997": {
+    "timestamp": "2016-03-24T16:40:46.881050",
+    "feedback": "",
+    "summary": "....."
+  },
+  "79ec5546316934a068c8612038324860": {
+    "timestamp": "2016-03-24T16:37:10.358520",
+    "feedback": "",
+    "summary": "....F"
+  }
+}

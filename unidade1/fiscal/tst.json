@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "6452.321\n24/10/1732\n5\n",
+      "output": "Data: 24/10/1732\nO valor total da compra foi de R$ 6452.32. A m\u00e9dia do pre\u00e7o dos produtos \u00e9 de 1290.5.\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "1157A1BA000000"
+}

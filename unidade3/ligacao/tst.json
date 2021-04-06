@@ -1,0 +1,27 @@
+{
+  "41068e7cf8e148caa5b80607851ed458": {
+    "timestamp": "2016-05-03T00:50:30.444190",
+    "feedback": "",
+    "summary": "......."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "1\n",
+      "output": "R$ 1.50\n"
+    },
+    {
+      "category": "public",
+      "input": "10\n",
+      "output": "R$ 7.00\n"
+    },
+    {
+      "category": "public",
+      "input": "14\n",
+      "output": "R$ 9.80\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "14A64E6A000000",
+  "last_commit": "41068e7cf8e148caa5b80607851ed458"
+}

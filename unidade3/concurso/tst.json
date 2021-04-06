@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "9.2\n8.3\n7.0\n21\n1.0\n2.3\n9.2\n53\n",
+      "output": "O primeiro candidato foi aprovado com m\u00e9dia 8.2.\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "f7ced18697a3fbd1f07b01854a325746": {
+    "timestamp": "2016-03-26T22:19:22.879490",
+    "feedback": "",
+    "summary": "......"
+  },
+  "key": "1694AEEA000000",
+  "last_commit": "f7ced18697a3fbd1f07b01854a325746"
+}

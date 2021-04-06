@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "4.0\n",
+      "output": "Per\u00edmetro: 17.77153\n\u00c1rea: 25.13274\n"
+    }
+  ],
+  "activity_revision": "1.1.1",
+  "key": "17F30C7A000000"
+}

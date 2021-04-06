@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "3\n",
+      "output": "6\n"
+    },
+    {
+      "category": "public",
+      "input": "1\n",
+      "output": "1\n"
+    }
+  ],
+  "078493bae5e0137b70eb96112c90f444": {
+    "timestamp": "2016-03-19T13:30:36.408160"
+  },
+  "filename": "Fatorial.py",
+  "tst_files": [],
+  "activity_revision": "1.1.0",
+  "key": "10894D8A000000",
+  "last_commit": "078493bae5e0137b70eb96112c90f444"
+}

@@ -1,0 +1,16 @@
+{
+  "2180a095a90692c1fe36c1462108f66e": {
+    "timestamp": "2016-02-23T19:34:45.525950",
+    "feedback": "",
+    "summary": ".."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "output": "{{Hello}} {{World}}!\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "10C8CE1A000000",
+  "last_commit": "2180a095a90692c1fe36c1462108f66e"
+}

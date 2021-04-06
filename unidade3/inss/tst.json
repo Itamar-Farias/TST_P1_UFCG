@@ -1,0 +1,22 @@
+{
+  "331391838ca424debebb8dec338fb2c7": {
+    "timestamp": "2016-03-01T23:38:56.564560",
+    "feedback": "",
+    "summary": "..."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "678.0\n",
+      "output": "O valor da contribui\u00e7\u00e3o do INSS a ser pago pelo empregador \u00e9 de R$ 81.36\nO valor da contribui\u00e7\u00e3o do INSS a ser pago pelo empregado \u00e9 de R$ 54.24\n"
+    },
+    {
+      "category": "public",
+      "input": "3500.0\n",
+      "output": "O valor da contribui\u00e7\u00e3o do INSS a ser pago pelo empregador \u00e9 de R$ 420.00\nO valor da contribui\u00e7\u00e3o do INSS a ser pago pelo empregado \u00e9 de R$ 385.00\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "key": "11BA091A000000",
+  "last_commit": "331391838ca424debebb8dec338fb2c7"
+}
