@@ -1,5 +1,4 @@
 #coding: utf-8
-#Itamar Farias 115210021
 #Programação I
 
 print "Mastery Learning"
